@@ -32,11 +32,12 @@ jobs:
           pnpm install
       
       - name: Build project
-        run: pnpm build
+        run: astro build
       
       - name: Deploy to gh-pages
+        # 使用指定版本的 GitHub Pages Action 部署
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: $\{\{ secrets.GITHUB_TOKEN \}\}
-          publish_dir: ./dist
-          publish_branch: gh-pages
+          github_token: $\{\{ secrets.GITHUB_TOKEN \}\}    # 提供默认的 GITHUB_TOKEN
+          publish_dir: ./dist                              # 指定构建输出目录
+          publish_branch: gh-pages                         # 指定部署分支
