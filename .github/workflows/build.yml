@@ -27,8 +27,8 @@ jobs:
       - name: Install dependencies with pnpm
         run: pnpm install
 
-      - name: Build Starlight Docs
-        run: pnpm run build
+      - name: Build Blog
+        run: pnpm astro build
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/main'
