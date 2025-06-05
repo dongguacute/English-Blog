@@ -22,6 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           echo 'auto-install-peers=true' >> .npmrc
+          echo 'strict-peer-dependencies=false' >> .npmrc
           pnpm install
       - name: Build project
         run: pnpm build
