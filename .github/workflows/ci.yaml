@@ -20,7 +20,9 @@ jobs:
           node-version: 18
           registry-url: https://registry.npmjs.org/
       - name: Install dependencies
-        run: pnpm install
+        run: |
+          pnpm config set auto-install-peers true
+          pnpm install
       - name: Build project
         run: pnpm build
       - name: Deploy to gh-pages
