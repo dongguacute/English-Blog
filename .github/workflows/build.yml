@@ -1,5 +1,5 @@
 # .github/workflows/deploy.yml
-name: Build Docs
+name: Build Blog
 
 on:
   push:
