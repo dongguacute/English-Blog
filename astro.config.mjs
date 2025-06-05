@@ -1,4 +1,5 @@
 import sitemap from "@astrojs/sitemap";
+import prefetch from "@astrojs/prefetch";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
 import { pluginCollapsibleSections } from "@expressive-code/plugin-collapsible-sections";
@@ -30,6 +31,7 @@ export default defineConfig({
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
+		prefetch(),
 		tailwind({
 			nesting: true,
 		}),
