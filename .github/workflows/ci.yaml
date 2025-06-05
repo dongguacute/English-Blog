@@ -21,7 +21,7 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - name: Install dependencies
         run: |
-          pnpm config set auto-install-peers true
+          echo 'auto-install-peers=true' >> .npmrc
           pnpm install
       - name: Build project
         run: pnpm build
