@@ -1,7 +1,7 @@
 ---
 title: Girl's skeleton anxiety
 published: 2025-06-07
-tags: [Girls, Skeleton Anxiety]
+tags: [Girls, Skeleton,Anxiety]
 description: "This article is for girls with medium or large frames."
 ---
 
