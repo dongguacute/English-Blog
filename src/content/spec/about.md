@@ -57,11 +57,21 @@ so sometimes I may not be very optimistic — but I’m working hard to get bett
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://space.bilibili.com/1486590453"><img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@dongguacute"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
-  <a href="https://x.com/Dongguacute"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a>
-  <a href="https://www.facebook.com/Dongguacute"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/dongguacute"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/1486590453" target="_blank">
+    <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@dongguacute" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://x.com/Dongguacute" target="_blank">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/Dongguacute" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dongguacute" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
