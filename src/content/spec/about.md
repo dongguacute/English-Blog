@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>15-year-old student developer | C++ & Python lover | Dreaming big, learning hard 🌈</b><br>
-  <i>"Code is my language, and creativity is my soul."</i>
+  <i>"Balabababa~"</i>
 </p>
 
 ---
@@ -33,13 +33,13 @@ so sometimes I may not be very optimistic — but I’m working hard to get bett
   <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=D92323&icon_color=FFC72C&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true" height="165"/>
 
   <!-- 浅色模式语言卡 -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=D92323&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=D92323&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true">
   
   <!-- 深色模式语言卡 -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFD85D&text_color=FAFAFA&bg_color=2B1B1B&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFD85D&text_color=FAFAFA&bg_color=2B1B1B&hide_border=true">
   
   <!-- 默认图片 -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=D92323&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true" height="165"/>
+  <img alt="Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=D92323&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true" height="165"/>
 </p>
 
 ---
