@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "CherryBlog",
+	title: "CherrysBlog",
 	subtitle: "A Cute Blog",
 	lang: "en", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
 	themeColor: {
@@ -32,9 +32,8 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
+			
 			src: "/favicon/tx2.png", // Path of the favicon, relative to the /public directory
-			theme: "light", // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-			sizes: "32x32", // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		},
 	],
 };
