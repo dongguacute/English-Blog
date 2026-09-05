@@ -1,5 +1,5 @@
 ---
-title: 【Electron插件】Smart Renderer（聪明的渲染器）
+title: 【Electron插件】Smart Renderers（聪明的渲染器）
 published: 2026-09-05
 description: "一个为 Electron 设计的更好的 Renderer（渲染器）管理插件"
 tags: ["Code", "Electron", "Npm Packages", "Nodejs", "TypeScript"]
