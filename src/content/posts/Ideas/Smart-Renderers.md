@@ -42,7 +42,7 @@ category: Ideas
 
 为了写的时候保险一点，我查看了 Electron 在这方面的文档：
 
-![Electron官方Readme文件](./images/Smart-Renderers/electron-readme.jpg)
+![Electron官方Readme文件](./images/Smart-Renderers/electron-readme.png)
 
 很明显，在官方的表述中，官方是非常之肯定 **Renderer（渲染器）在不使用的时候是肯定会被销毁的**。
 
